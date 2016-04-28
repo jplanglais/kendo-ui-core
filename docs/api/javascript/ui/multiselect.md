@@ -435,7 +435,7 @@ The hint displayed by the widget when it is empty. Not set by default.
 
 #### Example - specify placeholder as HTML attribute
 
-    <select id="multiselect data-placeholder="Select..." multiple="multiple">
+    <select id="multiselect" data-placeholder="Select..." multiple="multiple">
         <option>Item1</option>
         <option>Item2</option>
     </select>
